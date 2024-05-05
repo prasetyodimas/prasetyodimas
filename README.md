@@ -12,6 +12,7 @@
 - 💬 Ask me about **Angular, React, Software Engineer Careers**
 
 - 📫 How to reach me **dimasprasetyo485@gmail.com**
+- ⚡️ Fun fact: Im Funny person 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
