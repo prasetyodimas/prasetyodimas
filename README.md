@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimas Prasetyo</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on [https://github.com/sabidev2021/angular-prime-template](angular-prime-template)
+- 🔭 I’m currently working on [Angular Prime Template Starter]([angular-prime-template](https://github.com/sabidev2021/angular-prime-template))
 
 - 🌱 I’m currently learning **Ruby, C#, Redis, Kafka**
 
