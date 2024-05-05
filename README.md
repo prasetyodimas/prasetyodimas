@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dimas Prasetyo</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [test](adasd)
+- 🔭 I’m currently working on [Primecash X, Sungnikah /SN Community](adasd)
 
-- 🌱 I’m currently learning **asdsad**
+- 🌱 I’m currently learning **Ruby, C#, Redis, Kafka**
 
-- 👯 I’m looking to collaborate on [easd](sd)
-
-- 🤝 I’m looking for help with [asd](asd)
+- 👯 I’m looking to collaborate on [Sungnikah.com](sd)
 
 - 👨‍💻 All of my projects are available at [https://prasetyodev.gatsbyjs.io/](https://prasetyodev.gatsbyjs.io/)
 
-- 💬 Ask me about **asdasd**
+- 💬 Ask me about **Angular, React, Software Engineer Careers**
 
 - 📫 How to reach me **dimasprasetyo485@gmail.com**
 
