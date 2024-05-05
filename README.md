@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimas Prasetyo</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Primecash X, Sungnikah /SN Community](adasd)
+- 🔭 I’m currently working on [https://github.com/sabidev2021/angular-prime-template](adasd)
 
 - 🌱 I’m currently learning **Ruby, C#, Redis, Kafka**
 
