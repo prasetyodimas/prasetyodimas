@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dimas Prasetyo</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on open source project [Angular Prime Template Starter](https://github.com/sabidev2021/angular-prime-template), Sungnikah, NaruSol.
+- 🔭 I’m currently working on open source project : [Angular Prime Template Starter](https://github.com/sabidev2021/angular-prime-template), Sungnikah, NaruSol.
 
-- 🌱 I’m currently learning **Ruby, C#, Redis, Kafka, AI**
+- 🌱 I’m currently learning : **Ruby, C#, Redis, Kafka, AI**
 
-- 👯 I’m looking to collaborate on [Sungnikah Community](https://github.com/Sungnikah)
+- 👯 I’m looking to collaborate on : [Sungnikah Community](https://github.com/Sungnikah)
 
-- 👨‍💻 All of my projects are available at [https://prasetyodev.gatsbyjs.io/](https://prasetyodev.gatsbyjs.io/)
+- 👨‍💻 All of my projects are available at : [https://prasetyodev.gatsbyjs.io/](https://prasetyodev.gatsbyjs.io/)
 
-- 💬 Ask me about **Angular, React, Software Engineer Careers**
+- 💬 Ask me about : **Angular, React, Software Engineer Careers**
 
-- 📫 How to reach me **dimasprasetyo485@gmail.com**
-- ⚡️ Fun fact: Im Funny person 😄
+- 📫 How to reach me : **dimasprasetyo485@gmail.com**
+- ⚡️ Fun fact : Im Funny person 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
