@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Angular Prime Template Starter](https://github.com/sabidev2021/angular-prime-template)
 
-- 🌱 I’m currently learning **Ruby, C#, Redis, Kafka**
+- 🌱 I’m currently learning **Ruby, C#, Redis, Kafka, AI**
 
-- 👯 I’m looking to collaborate on [Sungnikah.com](sd)
+- 👯 I’m looking to collaborate on [Sungnikah Community](https://github.com/Sungnikah)
 
 - 👨‍💻 All of my projects are available at [https://prasetyodev.gatsbyjs.io/](https://prasetyodev.gatsbyjs.io/)
 
