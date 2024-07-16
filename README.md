@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning : **Ruby, Python, C#, Redis, Kafka, AI, English Professionals**
 
-- 👯 I’m looking to collaborate on : [Sungnikah Community](https://github.com/Sungnikah)
+- 👯 I create organizations and products on : [Sungnikah Community](https://github.com/Sungnikah)
 
 - 👨‍💻 All of my projects are available at : [https://prasetyodev.gatsbyjs.io/](https://prasetyodev.gatsbyjs.io/)
 
