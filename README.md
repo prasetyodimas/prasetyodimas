@@ -7,7 +7,7 @@
 
 - 👯 I create organizations and products on : [Sungnikah Community](https://github.com/Sungnikah)
 
-- 👨‍💻 All of my projects are available at : [https://prasetyodev.gatsbyjs.io/](https://prasetyodev.gatsbyjs.io/)
+- 👨‍💻 All of my projects are available at : [https://prasetyodev.netlify.app/)
 
 - 💬 Ask me about : **Angular, React, Software Engineer Careers**
 
