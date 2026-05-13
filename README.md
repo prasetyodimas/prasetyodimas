@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on open source project : [Angular Prime Template Starter](https://github.com/sabidev2021/angular-prime-template), Sungnikah, Sabi Developer.
 
-- 🌱 I’m currently learning : **Ruby, Python, C#, Redis, Kafka, AI, English Professionals**
+- 🌱 I’m currently learning : **Ruby, Python, C#, Golang, Redis, Kafka, AI, English Professionals**
 
 - 👯 I create organizations and products on : [Sungnikah Community](https://github.com/Sungnikah)
 
