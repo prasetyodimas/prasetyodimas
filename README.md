@@ -32,6 +32,7 @@
 **Backend Engineering**
 
 * Node.js
+* PHP
 * Express
 * REST API
 * Microservices
@@ -54,9 +55,12 @@
 * C#
 * Ruby
 * Python
+* IOT
 * AI Engineering
 * AI Agents
 * Distributed Systems
+* Web Assembly
+* Web Extension
 
 ### 🏗️ Engineering Philosophy
 
