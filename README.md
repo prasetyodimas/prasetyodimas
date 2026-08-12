@@ -74,7 +74,7 @@ My goal is not to become an expert in every technology, but to become an enginee
 
 * 💍 **Sungnikah** — Digital Wedding Invitation SaaS
 * 🧩 **Angular Prime Template Starter** — Open-source Angular starter template
-* 🌐 **Sabi Developer** — Developer community and projects
+* 🌐 **Sabi Developer** — Developer community ex Investree Group and some projects about sidejob / freelancer
 
 ### 💬 Ask Me About
 
