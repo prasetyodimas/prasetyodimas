@@ -42,8 +42,6 @@
 
 * Software Architecture
 * System Design
-* Redis
-* Kafka
 * Docker
 * Nginx
 * CI/CD
@@ -53,6 +51,8 @@
 
 * Go
 * C#
+* Redis
+* Kafka
 * Ruby
 * Python
 * IOT
