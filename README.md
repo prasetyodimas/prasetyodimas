@@ -28,7 +28,7 @@
 * Web Performance
 * SEO & SSR
 * Design Systems
-* GraphQl
+* GraphQL
 
 **Backend Engineering**
 
