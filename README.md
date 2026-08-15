@@ -84,7 +84,7 @@ My goal is not to become an expert in every technology, but to become an enginee
 ### 🌐 Portfolio
 
 <p align="left">
-  <a href="https://prasetyodev.netlify.app/" target="_blank">
+  <a href="https://prasetyodimas.my.id" target="_blank">
     <strong>prasetyodev.netlify.app</strong>
   </a>
 </p>
